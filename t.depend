@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1503129641 source:e:\adarker_study\³ÌÐò\codeblocks\t\main.c
+	<stdio.h>
+	<stdlib.h>
+	<gtk/gtk.h>
+	<gdk/gdk.h>
+	<time.h>
+	<string.h>
+
